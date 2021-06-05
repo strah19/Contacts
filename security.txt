@@ -1,8 +1,0 @@
-strah
-Drinska*11
-rastko
-Srbija*75
-account
-Password*12
-user
-Password_12
